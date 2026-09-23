@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammed 👋
+# Hi there, I'm Mohammed Al-hemyari 👋
 
 I am a Computer Networking Engineering & Cybersecurity undergraduate student at Taiz University. I am passionate about software engineering, and interacting with systems. I enjoy transforming complex problems into clean, efficient code and continuously building my technical skill set.
 
